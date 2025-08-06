@@ -9,7 +9,7 @@
 ```
 pip3 install openpyxl
 ```
-2. `pandas` для работы с datafram из выгрузки
+2. `pandas` для работы с dataframe из выгрузки
 ```
 pip3 install pandas
 ```
